@@ -47,7 +47,7 @@
 
 @media(max-width:465px) {
   .card {
-    max-width: 425px;
+    max-width: 375px;
   }
 
   .card .card-content {
